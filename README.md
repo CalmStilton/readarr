@@ -1,3 +1,4 @@
+
 # Readarr
 
 [![Build Status](https://github.com/faustvii/Readarr/workflows/Readarr%20CI%20&%20Docker%20Build/badge.svg)](https://github.com/faustvii/Readarr/actions/workflows/readarr-ci.yml)
